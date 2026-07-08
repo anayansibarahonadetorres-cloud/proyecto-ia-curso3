@@ -2,7 +2,7 @@
 
 Proyecto del curso de Desarrollo de IA 
 
-
+![image of an online cat](https://cdn.pixabay.com/photo/2018/02/28/14/19/fraud-prevention-3188092_1280.jpg)
 
 ## Resumen
 
