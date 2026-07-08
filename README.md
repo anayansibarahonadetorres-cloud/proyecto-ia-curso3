@@ -45,3 +45,4 @@ El sistema puede generar falsas alarmas y necesita datos de buena calidad para f
 En el futuro se podrían agregar notificaciones en tiempo real y mejorar la precisión del modelo con más datos.
 
 ## Agradecimientos
+Proyecto realizado como parte del curso Building AI de Elements of AI.
